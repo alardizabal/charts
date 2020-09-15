@@ -16,8 +16,9 @@ dependencies:
   # charts_common: 0.9.0
   charts_common:
     git:
-      url: https://github.com/alardizabal/charts
+      url: https://github.com/alardizabal/charts.git
       path: charts_common
+      ref: master
   collection: ^1.14.5
   flutter:
     sdk: flutter
